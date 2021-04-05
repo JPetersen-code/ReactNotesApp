@@ -2,7 +2,9 @@
 
 To make this app functional you will need to install npm packages
 
-Please install npm packages as followed
+Please install npm packages as followed by opening command prompt window in root folder. 
+
+Then type command.
 
 npm install react
 
