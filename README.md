@@ -16,4 +16,7 @@ Start project by typing
 
 npm start react
 
+
+This project was an exercise I completed at the end of march 2021 designed to learn and implement session storage for saving objects in the browsers memory.
+
 Joseph Petersen 
